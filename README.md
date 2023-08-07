@@ -30,4 +30,4 @@ After saving the new rules, you DO NOT need to run this bookmarklet again. The s
 
 This has been tested only on cameras with the IPC-HX5X3X firmware. However, it should work on others with the same web layout.
 
-![Example](Example.png)
+![Example](Example.jpg)
